@@ -1,0 +1,15 @@
+/home/mohaddesse/Documents/C#/exercise3/bin/Debug/net7.0/Exercise1
+/home/mohaddesse/Documents/C#/exercise3/bin/Debug/net7.0/Exercise1.deps.json
+/home/mohaddesse/Documents/C#/exercise3/bin/Debug/net7.0/Exercise1.runtimeconfig.json
+/home/mohaddesse/Documents/C#/exercise3/bin/Debug/net7.0/Exercise1.dll
+/home/mohaddesse/Documents/C#/exercise3/bin/Debug/net7.0/Exercise1.pdb
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.csproj.AssemblyReference.cache
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.AssemblyInfoInputs.cache
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.AssemblyInfo.cs
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.csproj.CoreCompileInputs.cache
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.dll
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/refint/Exercise1.dll
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.pdb
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/Exercise1.genruntimeconfig.cache
+/home/mohaddesse/Documents/C#/exercise3/obj/Debug/net7.0/ref/Exercise1.dll
